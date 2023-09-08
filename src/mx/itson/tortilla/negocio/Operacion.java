@@ -18,6 +18,8 @@ public class Operacion {
 
 
    public String [] separar (String oracion){
+//Hola a todos jajajajaja xD =)
+//uwu
    String [] resultado = oracion.split(",");
   
 
